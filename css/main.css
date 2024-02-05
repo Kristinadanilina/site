@@ -1,0 +1,46 @@
+body {
+     background-color:#f6dcf9;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Rubik Bubbles", system-ui;  font-weight: 400;
+    font-style: normal;
+    white-space: pre;
+    font-size: 30px;
+  }
+
+h2 {
+    text-align: center;
+    font-family: "Rubik Bubbles", system-ui;  font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    white-space: pre
+  }
+
+p, figcaption, ul {
+  font-family: "Lato", sans-serif;
+  text-indent: 20px;
+    font-size: 23px;
+  }
+
+
+ul {
+   list-style: circle;
+
+ }
+
+.img, figcaption {
+    text-align: center;
+}
+
+a {
+  font-size: 35px;
+  color:#eb15bd
+}
+
+.first-text {
+  background: #e3bebd;
+  border: 5px solid #8d2926;
+  padding: 10px;
+}
