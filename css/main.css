@@ -15,7 +15,7 @@ h2 {
     font-family: "Rubik Bubbles", system-ui;  font-weight: 400;
     font-style: normal;
     font-size: 30px;
-    white-space: pre
+    white-space: pre;
   }
 
 p, figcaption, ul {
@@ -26,12 +26,16 @@ p, figcaption, ul {
 
 
 ul {
-   list-style: circle;
+   list-style-type: circle;
 
  }
 
 .img, figcaption {
     text-align: center;
+}
+
+.imgg {
+  text-align:left;
 }
 
 a {
@@ -40,7 +44,22 @@ a {
 }
 
 .first-text {
-  background: #e3bebd;
-  border: 5px solid #8d2926;
-  padding: 10px;
+  background:rgb(213, 218, 199);
+  margin: 40px;
+  border: 10px solid rgb(182, 164, 237);
+  padding: 30px;
+  border-radius: 5px;
+ box-shadow: -1px 12px 43px 7px rgba(247,52,198,0.75);
+
+}
+
+.links{
+  height: auto;
+  width: 250px;
+  margin: 20px;
+  border: 10px solid rgb(182, 164, 237);
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: -1px 12px 43px 7px rgba(247,52,198,0.75);
+
 }
