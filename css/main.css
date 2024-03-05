@@ -63,3 +63,8 @@ a {
   box-shadow: -1px 12px 43px 7px rgba(247,52,198,0.75);
 
 }
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
